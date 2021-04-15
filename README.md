@@ -1,6 +1,9 @@
 # Diamond lens profiling
 ReadMe for this mini project
 
+TOC:
+https://github.com/cameronsalter/Diamond-lens-profiling#link-example
+
 * Bullet point
 
 ## Link example:
