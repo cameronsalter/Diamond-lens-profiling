@@ -11,9 +11,13 @@ SILs were milled into a diamond substrate using focussed-ion beam (FIB) milling 
 
 Work done ~2015 during post-doc at TU Wien.
 
-![Cross-sectional image of SIL: ](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg){ width=50% }
+![Cross-sectional image of SIL: ](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg)
+
+<img src="https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg" width="200">
 
 ![Extracted lens profile: ](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Extracted_lens_profile.png)
+
+
 
 ## Methodology used in analysis:
 Uses intensity contrast image between a diamond lens and its platinum coating in cross-sectional to determine boundary defining the lens shape.
