@@ -13,9 +13,13 @@ Work done ~2015 during post-doc at TU Wien.
 
 ![Cross-sectional image of SIL: ](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg)
 
-<img src="https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg" width="200">
+Cross-sectional image of SIL: 
+<img src="https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg" width="500">
 
 ![Extracted lens profile: ](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Extracted_lens_profile.png)
+
+Extracted lens profile:
+<img src="https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Extracted_lens_profile.png" width="500">
 
 
 
