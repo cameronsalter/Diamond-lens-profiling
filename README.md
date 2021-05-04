@@ -13,6 +13,8 @@ Work done ~2015 during post-doc at TU Wien.
 
 ![Cross-sectional image of SIL: ](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg)
 
+![Extracted lens profile: ](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Extracted_lens_profile.png)
+
 ## Methodology used in analysis:
 Uses intensity contrast image between a diamond lens and its platinum coating in cross-sectional to determine boundary defining the lens shape.
 
@@ -31,6 +33,7 @@ USTEM at TU Wien (FIB and SEM systems); Marie Curie Actions (funding).
 
 
 To do:
+* Add image of extracted prof
 * Other idea for Readme here: https://github.com/twbs/bootstrap
 * Check spelling
 * Proof-read and make public when complete
