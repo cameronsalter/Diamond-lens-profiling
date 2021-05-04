@@ -11,17 +11,14 @@ SILs were milled into a diamond substrate using focussed-ion beam (FIB) milling 
 
 Work done ~2015 during post-doc at TU Wien.
 
-![Cross-sectional image of SIL: ](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg)
-
 Cross-sectional image of SIL: 
 
 <img src="https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg" width="750">
 
-![Extracted lens profile: ](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Extracted_lens_profile.png)
 
-Extracted lens profile:
+Extracted profile of SIL:
 
-<img src="https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Extracted_lens_profile.png" width="1000">
+<img src="https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Extracted_lens_profile.png" width="750">
 
 
 
@@ -38,13 +35,10 @@ Uses intensity contrast image between a diamond lens and its platinum coating in
 USTEM at TU Wien (FIB and SEM systems); Marie Curie Actions (funding).
 
 
-## Link example:
-[Google](www.google.com)
-
 
 To do:
-* Add image of extracted prof
+* Table of contents
 * Other idea for Readme here: https://github.com/twbs/bootstrap
 * Check spelling
 * Proof-read and make public when complete
-* Watching: https://www.youtube.com/watch?v=yXY3f9jw7fg
+* Was watching: https://www.youtube.com/watch?v=yXY3f9jw7fg
