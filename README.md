@@ -3,7 +3,11 @@ This Jupyter notebook extracts the profile of a solid-immersion lens (SIL) by an
 
 [Link to Jupyter notebook](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/SEM_LensXsect_ProfExtract.ipynb)
 
-Table of contents:
+## Table of contents
+[Background](https://github.com/cameronsalter/Diamond-lens-profiling#background)
+[Methodology used in analysis](https://github.com/cameronsalter/Diamond-lens-profiling#methodology-used-in-analysis)
+[Basic user guide](https://github.com/cameronsalter/Diamond-lens-profiling#basic-user-guide)
+[Acknowledgements](https://github.com/cameronsalter/Diamond-lens-profiling#acknowledgements)
 
 
 ## Background
@@ -21,8 +25,7 @@ Extracted profile of SIL:
 <img src="https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Extracted_lens_profile.png" width="750">
 
 
-
-## Methodology used in analysis:
+## Methodology used in analysis
 Uses intensity contrast image between a diamond lens and its platinum coating in cross-sectional to determine boundary defining the lens shape.
 
 ## Basic user guide
