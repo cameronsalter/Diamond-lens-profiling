@@ -1,5 +1,6 @@
 # Diamond lens profiling from cross-section
-This Jupyter notebook extracts the profile of a solid-immersion lens (SIL) by analysing a cross-sectional image.
+This [Jupyter notebook] extracts the profile of a solid-immersion lens (SIL) by analysing a cross-sectional image. (https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/SEM_LensXsect_ProfExtract.ipynb)
+
 
 [Link to Jupyter notebook](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/SEM_LensXsect_ProfExtract.ipynb)
 
