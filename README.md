@@ -4,10 +4,10 @@ This Jupyter notebook extracts the profile of a solid-immersion lens (SIL) by an
 [Link to Jupyter notebook](https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/SEM_LensXsect_ProfExtract.ipynb)
 
 ## Table of contents
-[Background](https://github.com/cameronsalter/Diamond-lens-profiling#background)
-[Methodology used in analysis](https://github.com/cameronsalter/Diamond-lens-profiling#methodology-used-in-analysis)
-[Basic user guide](https://github.com/cameronsalter/Diamond-lens-profiling#basic-user-guide)
-[Acknowledgements](https://github.com/cameronsalter/Diamond-lens-profiling#acknowledgements)
+* [Background](https://github.com/cameronsalter/Diamond-lens-profiling#background)
+* [Methodology used in analysis](https://github.com/cameronsalter/Diamond-lens-profiling#methodology-used-in-analysis)
+* [Basic user guide](https://github.com/cameronsalter/Diamond-lens-profiling#basic-user-guide)
+* [Acknowledgements](https://github.com/cameronsalter/Diamond-lens-profiling#acknowledgements)
 
 
 ## Background
@@ -17,7 +17,7 @@ Work done ~2015 during post-doc at TU Wien.
 
 Cross-sectional image of SIL: 
 
-<img src="https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg" width="750">
+<img src="https://github.com/cameronsalter/Diamond-lens-profiling/blob/master/Xsect_images/EllipSIL1_LH1p24_cut58deg_x-sct_10kV_spt2_Rot4deg.jpg" width="700">
 
 
 Extracted profile of SIL:
